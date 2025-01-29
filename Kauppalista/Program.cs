@@ -4,6 +4,13 @@ using Kauppalista.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//Maanantaiaamu alkaa sprintin suunnittelupalaverilla ja jokainen aamu dailylla. Perjantaina review ja retro. 
+//Tekemisessä käytetään GitHubia niin, että jokaiselle 
+//muutokselle on syynä joko taski joka on luotu jo sprintin suunnittelussa, tai issue, joka on luotu viikon aikana.
+
+//(Keskivaikea) Kauppalista (Web-applikaatio joka muistaa mitä kauppalistaan on lisätty)
+
+
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
