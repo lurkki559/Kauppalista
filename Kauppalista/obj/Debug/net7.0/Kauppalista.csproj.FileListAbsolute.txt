@@ -67,3 +67,7 @@ C:\Github\Kauppalista\Kauppalista\obj\Debug\net7.0\refint\Kauppalista.dll
 C:\Github\Kauppalista\Kauppalista\obj\Debug\net7.0\Kauppalista.pdb
 C:\Github\Kauppalista\Kauppalista\obj\Debug\net7.0\Kauppalista.genruntimeconfig.cache
 C:\Github\Kauppalista\Kauppalista\obj\Debug\net7.0\ref\Kauppalista.dll
+C:\Github\Kauppalista\Kauppalista\bin\Debug\net7.0\Lists\1.json
+C:\Github\Kauppalista\Kauppalista\bin\Debug\net7.0\Lists\2.json
+C:\Github\Kauppalista\Kauppalista\bin\Debug\net7.0\Lists\3.json
+C:\Github\Kauppalista\Kauppalista\bin\Debug\net7.0\Lists\4.json
