@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\Kauppalista01\\Kauppalista\\Kauppalista.csproj": {}
+    "C:\\Github\\Kauppalista\\Kauppalista\\Kauppalista.csproj": {}
   },
   "projects": {
-    "C:\\Github\\Kauppalista01\\Kauppalista\\Kauppalista.csproj": {
+    "C:\\Github\\Kauppalista\\Kauppalista\\Kauppalista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\Kauppalista01\\Kauppalista\\Kauppalista.csproj",
+        "projectUniqueName": "C:\\Github\\Kauppalista\\Kauppalista\\Kauppalista.csproj",
         "projectName": "Kauppalista",
-        "projectPath": "C:\\Github\\Kauppalista01\\Kauppalista\\Kauppalista.csproj",
+        "projectPath": "C:\\Github\\Kauppalista\\Kauppalista\\Kauppalista.csproj",
         "packagesPath": "C:\\Users\\teemu\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\",
+        "outputPath": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

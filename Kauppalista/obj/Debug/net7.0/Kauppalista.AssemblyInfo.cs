@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kauppalista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e48fba57d27f7e6af0778715c02eae91f055cfc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kauppalista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kauppalista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

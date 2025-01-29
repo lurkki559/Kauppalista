@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7raluimGkCFqu2Wq4Gwb/Nmqzw8Wwa1h723a0snmDP4=",
+  "Hash": "mBYQnXemnrYYJjlkQo6DMzDr28sJokN/8HyiRysUZFo=",
   "Source": "Kauppalista",
   "BasePath": "_content/Kauppalista",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Kauppalista\\wwwroot",
       "Source": "Kauppalista",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Kauppalista.styles.css",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Kauppalista.styles.css",
       "SourceId": "Kauppalista",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "Kauppalista#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "g4mM4qioGHBRFhI3A1/81eKs9kZLvBDDKKM3qQQEDH0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Kauppalista.styles.css"
+      "OriginalItemSpec": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Kauppalista.styles.css"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
       "SourceId": "Kauppalista",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "Kauppalista#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "g4mM4qioGHBRFhI3A1/81eKs9kZLvBDDKKM3qQQEDH0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/FONT-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.otf",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/ICON-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/README#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\site.css",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\favicon.png",
+      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\favicon.png",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -335,7 +335,7 @@
   "Endpoints": [
     {
       "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -380,7 +380,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -417,7 +417,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -462,7 +462,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -499,7 +499,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -536,7 +536,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE.48tmkg660f",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -581,7 +581,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -626,7 +626,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -663,7 +663,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.0uw8dim9nl.eot",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -708,7 +708,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.eot",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -745,7 +745,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.h4d0pazwgy.woff",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -790,7 +790,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ll5grcv8wv.ttf",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -835,7 +835,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.otf",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -872,7 +872,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -917,7 +917,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.svg",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -954,7 +954,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ttf",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -991,7 +991,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1036,7 +1036,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.woff",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1073,7 +1073,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1110,7 +1110,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE.4dwjve0o0b",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1155,7 +1155,7 @@
     },
     {
       "Route": "css/open-iconic/README.5bzwdl5l6x.md",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1200,7 +1200,7 @@
     },
     {
       "Route": "css/open-iconic/README.md",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1237,7 +1237,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1274,7 +1274,7 @@
     },
     {
       "Route": "css/site.zh9s866nx2.css",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1319,7 +1319,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1364,7 +1364,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1401,7 +1401,7 @@
     },
     {
       "Route": "Kauppalista.baho0nqnjt.bundle.scp.css",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1446,7 +1446,7 @@
     },
     {
       "Route": "Kauppalista.baho0nqnjt.styles.css",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Kauppalista.styles.css",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Kauppalista.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1491,7 +1491,7 @@
     },
     {
       "Route": "Kauppalista.bundle.scp.css",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1528,7 +1528,7 @@
     },
     {
       "Route": "Kauppalista.styles.css",
-      "AssetFile": "C:\\Github\\Kauppalista01\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Kauppalista.styles.css",
+      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Kauppalista.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
