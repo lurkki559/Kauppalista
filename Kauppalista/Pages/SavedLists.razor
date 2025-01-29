@@ -1,0 +1,57 @@
+@page "/lists"
+@inject ShoppingListService ShoppingListService
+
+<h3>Tallennetut listat</h3>
+
+<ul>
+    @foreach (var list in savedLists)
+    {
+        <li>
+            @list
+            <button @onclick="() => LoadList(list)">Lataa</button>
+            <button @onclick="() => DeleteList(list)">Poista</button>
+        </li>
+    }
+</ul>
+
+@if (showList)
+{
+    <h4>@currentListName</h4>
+    <ul>
+        @foreach (var item in ShoppingListService.GetItems())
+        {
+            <li>
+                @item.Name - @item.Quantity x @item.Price € = @(item.Quantity * item.Price) €
+            </li>
+        }
+    </ul>
+    <p>Kauppalistan hinta yhteensä: @ShoppingListService.GetTotalPrice() €</p>
+}
+
+@code {
+    private List<string> savedLists = new List<string>();
+    private bool showList = false;
+    private string currentListName;
+
+    protected override void OnInitialized()
+    {
+        savedLists = ShoppingListService.GetSavedLists();
+    }
+
+    private void LoadList(string listName)
+    {
+        ShoppingListService.LoadList(listName);
+        currentListName = listName;
+        showList = true;
+    }
+
+    private void DeleteList(string listName)
+    {
+        ShoppingListService.DeleteList(listName);
+        savedLists = ShoppingListService.GetSavedLists();
+        if (currentListName == listName)
+        {
+            showList = false;
+        }
+    }
+}
