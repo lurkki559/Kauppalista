@@ -1,0 +1,178 @@
+@page "/shoppinglist"
+@inject ShoppingListService ShoppingListService
+
+<h3>Kauppalista</h3>
+
+<div>
+    <label>Tuote:</label>
+    <input @bind="newItemName" placeholder="Tuote" />
+</div>
+<div>
+    <label>Kappale määrä:</label>
+    <input @bind="newItemQuantity" type="number" placeholder="Kappale määrä" />
+</div>
+<div>
+    <label>Hinta:</label>
+    <input @bind="newItemPrice" type="number" step="0.01" placeholder="Hinta" />
+</div>
+<button @onclick="AddItem">Lisää tuote</button>
+
+<ul>
+    @foreach (var item in ShoppingListService.GetItems())
+    {
+        <li>
+            @item.Name - @item.Quantity x @item.Price € = @(item.Quantity * item.Price) €
+            <span class="button-spacing">
+                <button class="small-button" @onclick="() => EditItem(item)">Muokkaa</button>
+                <button class="small-button" @onclick="() => DeleteItem(item.Name)">Poista</button>
+            </span>
+        </li>
+    }
+</ul>
+
+<p>Kauppalistan hinta yhteensä: @ShoppingListService.GetTotalPrice() €</p>
+
+<button @onclick="ShowConfirmation">Tyhjennä lista</button>
+<button @onclick="ShowSaveDialog">Tallenna lista</button>
+
+@if (showConfirmation)
+{
+    <div>
+        <p>Oletko varma, että haluat tyhjentää listan?</p>
+        <button @onclick="ClearList">Kyllä</button>
+        <button @onclick="HideConfirmation">Ei</button>
+    </div>
+}
+
+@if (showSaveDialog)
+{
+    <div>
+        <p>Anna listalle nimi:</p>
+        <input @bind="listName" placeholder="Listan nimi" />
+        <button @onclick="SaveList">Tallenna</button>
+        <button @onclick="HideSaveDialog">Peruuta</button>
+    </div>
+}
+
+@if (isEditing)
+{
+    <div>
+        <h4>Muokkaa tuotetta</h4>
+        <div>
+            <label>Tuote:</label>
+            <input @bind="editItemName" placeholder="Tuote" disabled />
+        </div>
+        <div>
+            <label>Kappale määrä:</label>
+            <input @bind="editItemQuantity" type="number" placeholder="Kappale määrä" />
+        </div>
+        <div>
+            <label>Hinta:</label>
+            <input @bind="editItemPrice" type="number" step="0.01" placeholder="Hinta" />
+        </div>
+        <button @onclick="UpdateItem">Päivitä tuote</button>
+    </div>
+}
+
+@code {
+    private string newItemName;
+    private int newItemQuantity;
+    private decimal newItemPrice;
+
+    private bool isEditing = false;
+    private string editItemName;
+    private int editItemQuantity;
+    private decimal editItemPrice;
+
+    private bool showConfirmation = false;
+    private bool showSaveDialog = false;
+    private string listName;
+
+    private void AddItem()
+    {
+        var item = new ShoppingItem
+        {
+            Name = newItemName,
+            Quantity = newItemQuantity,
+            Price = newItemPrice
+        };
+        ShoppingListService.AddItem(item);
+        newItemName = string.Empty;
+        newItemQuantity = 0;
+        newItemPrice = 0;
+    }
+
+    private void EditItem(ShoppingItem item)
+    {
+        isEditing = true;
+        editItemName = item.Name;
+        editItemQuantity = item.Quantity;
+        editItemPrice = item.Price;
+    }
+
+    private void UpdateItem()
+    {
+        var item = new ShoppingItem
+        {
+            Name = editItemName,
+            Quantity = editItemQuantity,
+            Price = editItemPrice
+        };
+        ShoppingListService.UpdateItem(item);
+        isEditing = false;
+    }
+
+    private void DeleteItem(string itemName)
+    {
+        ShoppingListService.RemoveItem(itemName);
+    }
+
+    private void ShowConfirmation()
+    {
+        showConfirmation = true;
+    }
+
+    private void HideConfirmation()
+    {
+        showConfirmation = false;
+    }
+
+    private void ClearList()
+    {
+        ShoppingListService.ClearList();
+        showConfirmation = false;
+    }
+
+    private void ShowSaveDialog()
+    {
+        showSaveDialog = true;
+    }
+
+    private void HideSaveDialog()
+    {
+        showSaveDialog = false;
+    }
+
+    private void SaveList()
+    {
+        try
+        {
+            ShoppingListService.SaveList(listName);
+            showSaveDialog = false;
+        }
+        catch (InvalidOperationException ex)
+        {
+            // Handle the exception (e.g., show a message to the user)
+        }
+    }
+}
+
+<style>
+    .small-button {
+        font-size: 0.6em;
+        padding: 1px 3px;
+    }
+    .button-spacing {
+        margin-left: 50px;
+    }
+</style>

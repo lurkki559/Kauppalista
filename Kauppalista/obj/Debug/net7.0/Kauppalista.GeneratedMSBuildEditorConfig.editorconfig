@@ -24,16 +24,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Github/Kauppalista/Kauppalista/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Github/Kauppalista/Kauppalista/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Github/Kauppalista/Kauppalista/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Github/Kauppalista/Kauppalista/Pages/SavedLists.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2F2ZWRMaXN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Github/Kauppalista/Kauppalista/Pages/ShoppingList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Github/Kauppalista/Kauppalista/Shared/SurveyPrompt.razor]
