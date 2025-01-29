@@ -10,6 +10,13 @@ var builder = WebApplication.CreateBuilder(args);
 
 //(Keskivaikea) Kauppalista (Web-applikaatio joka muistaa mitä kauppalistaan on lisätty)
 
+//Todo:
+//Välilehti, jossa on kauppalista. Voidaan lisätä tuotteita listalle, myös poistaa. Extra: hakee tuotteiden hintoja netistä, esim Prisma.
+//Product -luokka, jossa nimi, hinta ja määrä.
+//ShoppingList -luokka, jossa metodit tuotteen lisäämiselle ja poistamiselle.
+//Lista pitää pystyä tallentamaan json -tiedostoon.
+//Jos tulee jotain omia ajatuksia tai muutosehdotuksia, sitä ennen githubiin ISSUE tai TASK, koska näin on käsketty toimia.
+
 
 // Add services to the container.
 builder.Services.AddRazorPages();
