@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xnTJjzcgUZx94/2OQM15nxk4WpDMxGI3QbuQNTze3UE=",
+  "Hash": "s7BzTARhuaBtUnm4P8H8Sp1Kc25rGat2Qy0FptoOJ8E=",
   "Source": "Kauppalista",
   "BasePath": "_content/Kauppalista",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Kauppalista\\wwwroot",
       "Source": "Kauppalista",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Kauppalista.styles.css",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Kauppalista.styles.css",
       "SourceId": "Kauppalista",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "Kauppalista#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "g4mM4qioGHBRFhI3A1/81eKs9kZLvBDDKKM3qQQEDH0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Kauppalista.styles.css"
+      "OriginalItemSpec": "C:\\GitHub\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Kauppalista.styles.css"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
       "SourceId": "Kauppalista",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "Kauppalista#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "g4mM4qioGHBRFhI3A1/81eKs9kZLvBDDKKM3qQQEDH0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css"
+      "OriginalItemSpec": "C:\\GitHub\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -73,17 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/FONT-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.otf",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/ICON-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/open-iconic/README#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\site.css",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\site.css",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\favicon.png",
+      "Identity": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\favicon.png",
       "SourceId": "Kauppalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\",
       "BasePath": "_content/Kauppalista",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -334,8 +334,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -344,7 +344,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -352,11 +352,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -366,7 +366,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
+          "Value": "6gzpyzhau4"
         },
         {
           "Name": "label",
@@ -374,13 +374,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -389,7 +389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -397,11 +397,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -411,13 +411,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -438,7 +438,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -462,7 +462,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -483,7 +483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -499,7 +499,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -520,7 +520,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -536,7 +536,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE.48tmkg660f",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -557,7 +557,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -581,7 +581,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -602,7 +602,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -626,7 +626,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -647,7 +647,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -663,7 +663,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.0uw8dim9nl.eot",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -684,7 +684,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -708,7 +708,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.eot",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -729,7 +729,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -745,7 +745,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.h4d0pazwgy.woff",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -766,7 +766,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -790,7 +790,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ll5grcv8wv.ttf",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -811,7 +811,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -835,7 +835,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.otf",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -856,7 +856,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -872,7 +872,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -893,7 +893,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -917,7 +917,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.svg",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -938,7 +938,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -954,7 +954,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ttf",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -975,7 +975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -991,7 +991,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1012,7 +1012,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1036,7 +1036,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.woff",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1057,7 +1057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1073,7 +1073,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1094,7 +1094,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1110,7 +1110,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE.4dwjve0o0b",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1131,7 +1131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1155,7 +1155,7 @@
     },
     {
       "Route": "css/open-iconic/README.5bzwdl5l6x.md",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1176,7 +1176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1200,7 +1200,7 @@
     },
     {
       "Route": "css/open-iconic/README.md",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1221,7 +1221,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1237,7 +1237,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1258,7 +1258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1274,7 +1274,7 @@
     },
     {
       "Route": "css/site.zh9s866nx2.css",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1295,7 +1295,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1319,7 +1319,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1340,7 +1340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1364,7 +1364,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1385,7 +1385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 07:33:57 GMT"
+          "Value": "Wed, 29 Jan 2025 07:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1401,7 +1401,7 @@
     },
     {
       "Route": "Kauppalista.baho0nqnjt.bundle.scp.css",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1422,7 +1422,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 10:17:13 GMT"
+          "Value": "Wed, 29 Jan 2025 10:16:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1446,7 +1446,7 @@
     },
     {
       "Route": "Kauppalista.baho0nqnjt.styles.css",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Kauppalista.styles.css",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Kauppalista.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1467,7 +1467,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 10:17:13 GMT"
+          "Value": "Wed, 29 Jan 2025 10:16:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1491,7 +1491,7 @@
     },
     {
       "Route": "Kauppalista.bundle.scp.css",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Kauppalista.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1512,7 +1512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 10:17:13 GMT"
+          "Value": "Wed, 29 Jan 2025 10:16:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1528,7 +1528,7 @@
     },
     {
       "Route": "Kauppalista.styles.css",
-      "AssetFile": "C:\\Github\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Kauppalista.styles.css",
+      "AssetFile": "C:\\GitHub\\Kauppalista\\Kauppalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Kauppalista.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1549,7 +1549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 10:17:13 GMT"
+          "Value": "Wed, 29 Jan 2025 10:16:04 GMT"
         },
         {
           "Name": "Cache-Control",

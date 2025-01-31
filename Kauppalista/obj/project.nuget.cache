@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "N59OEkHZgbw=",
+  "dgSpecHash": "PXfZTqlp9OI=",
   "success": true,
-  "projectFilePath": "C:\\Github\\Kauppalista\\Kauppalista\\Kauppalista.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\GitHub\\Kauppalista\\Kauppalista\\Kauppalista.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marku\\.nuget\\packages\\system.io.pipelines\\9.0.1\\system.io.pipelines.9.0.1.nupkg.sha512",
+    "C:\\Users\\marku\\.nuget\\packages\\system.net.http.json\\9.0.1\\system.net.http.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\marku\\.nuget\\packages\\system.text.encodings.web\\9.0.1\\system.text.encodings.web.9.0.1.nupkg.sha512",
+    "C:\\Users\\marku\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

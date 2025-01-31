@@ -37,3 +37,10 @@ C:\Github\Kauppalista\Kauppalista\obj\Debug\net8.0\refint\Kauppalista.dll
 C:\Github\Kauppalista\Kauppalista\obj\Debug\net8.0\Kauppalista.pdb
 C:\Github\Kauppalista\Kauppalista\obj\Debug\net8.0\Kauppalista.genruntimeconfig.cache
 C:\Github\Kauppalista\Kauppalista\obj\Debug\net8.0\ref\Kauppalista.dll
+C:\GitHub\Kauppalista\Kauppalista\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\GitHub\Kauppalista\Kauppalista\bin\Debug\net8.0\System.Net.Http.Json.dll
+C:\GitHub\Kauppalista\Kauppalista\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\GitHub\Kauppalista\Kauppalista\bin\Debug\net8.0\System.Text.Json.dll
+C:\GitHub\Kauppalista\Kauppalista\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\GitHub\Kauppalista\Kauppalista\obj\Debug\net8.0\Kauppalista.csproj.AssemblyReference.cache
+C:\GitHub\Kauppalista\Kauppalista\obj\Debug\net8.0\Kauppali.FC2866F3.Up2Date

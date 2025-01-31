@@ -1,0 +1,28 @@
+﻿@page "/WeatherForecasts"
+@using Kauppalista.Data
+@inject Kauppalista.Data.WeatherForecastService WeatherForecastService
+
+<h3>Weather Forecast for Tampere</h3>
+
+@if (forecast == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div>
+        <p><strong>Date:</strong> @forecast.Date.ToShortDateString()</p>
+        <p><strong>Temperature (C):</strong> @forecast.TemperatureC</p>
+        <p><strong>Location:</strong> @forecast.Location</p>
+        <p><strong>Summary:</strong> @forecast.Summary</p>
+    </div>
+}
+
+@code {
+    private WeatherForecast? forecast;
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecast = await WeatherForecastService.GetWeatherForecastAsync("Tampere");
+    }
+}
